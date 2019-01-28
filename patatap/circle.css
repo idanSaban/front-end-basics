@@ -1,0 +1,81 @@
+canvas{
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+body,html{
+    height: 100%;
+    margin:0;    
+}
+h1{
+    margin-top: 20%;
+    width: 100%;
+    color: white;
+    position: absolute;
+    text-align: center;
+    font-size: 500%;
+    letter-spacing: 5px;
+    transition: 2s;
+}
+h1:hover {
+    transition: 2s;
+    color: rgb(240, 138, 138)
+}
+
+h2{
+    width: 100%;
+    color: white;
+    position: absolute;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+}
+#hit{
+    transition: 500ms;
+}
+#hit:hover{
+    color:red;
+    transition: 500ms;
+}
+#a{
+    transition: 500ms;
+}
+#a:hover{
+    color: blueviolet;
+    transition: 500ms;
+}
+#key{
+    transition: 500ms;
+}
+#key:hover{
+    color: blue;
+    transition: 500ms;
+}
+#for{
+    transition: 500ms;
+}
+#for:hover{
+    color: aqua;
+    transition: 500ms;
+}
+#sound{
+    transition: 500ms;
+}
+#sound:hover{
+    color: green;
+    transition: 500ms;
+}
+#and{
+    transition: 500ms;
+}
+#and:hover{
+    color:yellowgreen;
+    transition: 500ms;
+}
+#colors{
+    transition: 500ms;
+}
+#colors:hover{
+    color: yellow;
+    transition: 500ms;
+}
